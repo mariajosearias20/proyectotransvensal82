@@ -66,9 +66,9 @@
     
 .contenido{
 
-    height: 280px;
+    height: 214px;
     
-    width: 100%;
+    width: 369px;
     
     position: absolute;
     
@@ -80,7 +80,7 @@
     
      
     
-    .imagentecno{
+    .imagensoc{
     
      
     
@@ -88,21 +88,21 @@
     
     float:left;
     
-    height: 200px;
+    height: 100px;
     
-    width: 260px;
+    width: 100px;
     
     margin-left: 5px;
     
     margin-right:5px;
     
-    background-image: url("paisaje.jpg");
+    background-image: url("flor.jpg");
     
     }
     
     
     
-    .textotecno{
+    .textosoc{
     
     text-align: justify;
     
